@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=CertifyHeap
-comment1.params=v\ w
-comment1.target=boolean\ less(java.lang.Comparable,\ java.lang.Comparable)
-comment2.params=a
-comment2.target=boolean\ maxOrderedHeap(java.lang.Comparable[])
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4

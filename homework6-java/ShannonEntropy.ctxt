@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=ShannonEntropy
-comment1.params=x
-comment1.target=double\ lg(double)
-comment2.params=a
-comment2.target=double\ entropy(java.lang.Comparable[])
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
